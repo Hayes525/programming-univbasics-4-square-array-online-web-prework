@@ -1,1 +1,1 @@
-square_array(numbers)
+def square_array
